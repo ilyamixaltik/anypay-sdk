@@ -1,0 +1,22 @@
+{
+  "name": "anypay-sdk",
+  "version": "1.0.0",
+  "description": "AnyPay SDK is a library for convenient and efficient integration with the payment system 'AnyPay.io'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyamixaltik/anypay-sdk.git"
+  },
+  "keywords": [
+    "AnyPay"
+  ],
+  "author": "Ilya Mixaltik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyamixaltik/anypay-sdk/issues"
+  },
+  "homepage": "https://github.com/ilyamixaltik/anypay-sdk#readme"
+}
