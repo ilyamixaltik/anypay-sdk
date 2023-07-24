@@ -19,7 +19,7 @@
     "payment system"
   ],
   "author": "Ilya Mixaltik",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ilyamixaltik/anypay-sdk/issues"
   },
