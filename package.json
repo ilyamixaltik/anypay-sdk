@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/ilyamixaltik/anypay-sdk/issues"
   },
-  "homepage": "https://github.com/ilyamixaltik/anypay-sdk#readme"
+  "homepage": "https://github.com/ilyamixaltik/anypay-sdk#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.4",
+    "typescript": "^5.1.6"
+  }
 }
