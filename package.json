@@ -1,6 +1,6 @@
 {
   "name": "anypay-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AnyPay SDK is a library for convenient and efficient integration with the payment system 'AnyPay.io'.",
   "main": "build/index.js",
   "scripts": {
