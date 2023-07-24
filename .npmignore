@@ -1,0 +1,9 @@
+// Deploy
+.github
+
+// IDE Dir
+.vscode
+.idea
+
+// Documentation
+docs
